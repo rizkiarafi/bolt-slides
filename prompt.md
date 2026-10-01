@@ -21,6 +21,10 @@ Gunakan `material.md` untuk isi akademik dan `skill.md` untuk aturan pembuatan s
 
 ## Implementasi dan Review
 
+## Style
+* Warna background: #220522
+* Warna lain: #411782, #384ec5, #0ca8a4, #a1df2a, #c5ffc9, #e5cc21, #c93267, #8a0c7b, #dc32a6, #e183cf, #ac4cff, #5c43a9, #7c94f4, #c9c4e8
+
 Jangan hanya membuat outline. Implementasikan langsung slide deck di project Bolt Slides.
 
 Setelah selesai, tinjau seluruh slide dan perbaiki masalah seperti teks terlalu padat, overflow, layout tidak konsisten, atau instruksi dalam `skill.md` yang belum diterapkan.
