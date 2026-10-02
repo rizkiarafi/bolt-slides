@@ -60,12 +60,8 @@
 
 **Contoh:**
 
-* 8 ÷ 2 = 4 ÷ 2 = 2
-
-  * 2 - 2 → sisa 0 → **Genap**
-* 12 ÷ 2 = 6 ÷ 2 = 3
-
-  * 3 - 3 → sisa 0 → **Genap**
+* 8 ÷ 2 → sisa 0 → **Genap**
+* 12 ÷ 2 → sisa 0 → **Genap**
 
 ---
 
@@ -78,12 +74,7 @@
 
 **Contoh:**
 
-* 7 ÷ 2 = 3
-
-  * 3 - 2 → sisa 1 → **Ganjil**
-* 11 ÷ 2 = 5
-
-  * 5 - 2 → sisa 3 → **Ganjil**
+* 13 ÷ 2 → sisa 1 → **Ganjil**
 
 ### Alur Algoritma
 
